@@ -86,7 +86,3 @@ This project is licensed under the MIT License.
 ## Contribution
 
 Welcome to contribute improvements by submitting issues or pull requests through GitHub.
-
-## Contact Information
-
-If you have any questions or need assistance, please contact us at [yym68686@outlook.com](mailto:yym68686@outlook.com).
